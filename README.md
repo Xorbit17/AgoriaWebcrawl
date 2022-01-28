@@ -1,5 +1,5 @@
 # Info
-Web crawler script specifiek voor Agoria. Exporteert naar Excel Script runt enkel in IDE. Geen deployment. Interne tool.
+Web crawler script specifiek voor Agoria. Exporteert naar Excel. Script runt enkel in IDE. Geen deployment. Interne tool.
 
 Command line arguments:
 1. Output path and filename
